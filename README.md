@@ -1,6 +1,6 @@
 # Planetary Gear System Design and Assembly
 
-![Planetary Gear Assembly](images/assembly.png)
+![Planetary Gear Assembly](imeges/plantery-gear)
 
 ## Overview
 This project presents the **design and mechanical assembly of a planetary gear system**.  
